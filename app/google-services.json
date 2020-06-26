@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "313404460501",
+    "firebase_url": "https://ringed-choir-238201.firebaseio.com",
+    "project_id": "ringed-choir-238201",
+    "storage_bucket": "ringed-choir-238201.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313404460501:android:d582c35ba6610f0878415c",
+        "android_client_info": {
+          "package_name": "com.androfast.server.appbaseobtenergps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313404460501-9n3q9ltr901nh9l8njp4kqa0gpokn9cg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androfast.server.appbaseobtenergps",
+            "certificate_hash": "b80e991af6083222f6ea5239a87f3aef6af838f0"
+          }
+        },
+        {
+          "client_id": "313404460501-tariktsb0bboe9d3ekdjd28t20ldc3li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtlzVbgphVOIY_Kx9N_3TrYJ0TE5MkXyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313404460501-tariktsb0bboe9d3ekdjd28t20ldc3li.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313404460501:android:bb40de0356200f0078415c",
+        "android_client_info": {
+          "package_name": "com.example.ibabus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313404460501-f89hmpjeobblv9s4ng51jo3jo5uqnmsv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ibabus",
+            "certificate_hash": "b80e991af6083222f6ea5239a87f3aef6af838f0"
+          }
+        },
+        {
+          "client_id": "313404460501-tariktsb0bboe9d3ekdjd28t20ldc3li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtlzVbgphVOIY_Kx9N_3TrYJ0TE5MkXyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313404460501-tariktsb0bboe9d3ekdjd28t20ldc3li.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313404460501:android:d266db1aa401d3d078415c",
+        "android_client_info": {
+          "package_name": "com.example.mapasprueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313404460501-qdvnkrn1ukr0ecb06ei6vecr0d9u5i24.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mapasprueba",
+            "certificate_hash": "b80e991af6083222f6ea5239a87f3aef6af838f0"
+          }
+        },
+        {
+          "client_id": "313404460501-tariktsb0bboe9d3ekdjd28t20ldc3li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtlzVbgphVOIY_Kx9N_3TrYJ0TE5MkXyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313404460501-tariktsb0bboe9d3ekdjd28t20ldc3li.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

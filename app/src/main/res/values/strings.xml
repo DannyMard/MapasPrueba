@@ -1,0 +1,39 @@
+<resources>
+    <!-- TODO:  Actividad 1 o Main Activity -->
+    <string name="btn_Administradpr">administrador</string>
+    <string name="btn_Conductor">conductor</string>
+
+    <!-- TODO:  Actividad administrador -->
+    <string name="tv_admin">Ingrese Usuario </string>
+    <string name="tv_passwordAdmin">ingrese contraseña</string>
+    <string name="btn_InicioAdmin">Ingresar</string>
+
+    <!-- TODO:  Actividad de registro de datos -->
+    <string name="tv_nombreConductor">Nombre</string>
+    <string name="tv_email">Email</string>
+    <string name="tv_numBUs">Nro de bus</string>
+    <string name="tv_cooperativa">Cooperativa</string>
+    <string name="tv_Ruta">Ruta</string>
+    <string name="tv_horario">Horario</string>
+    <string name="tv_celular">Celular</string>
+    <string name="tv_passwordConductor">Contraseña</string>
+    <string name="btn_registrar">registrar Conductor</string>
+
+    <!-- TODO:  Actividad de inicio sesion -->
+    <string name="btn_login">Iniciar sesion</string>
+
+
+    <string name="app_name">MapasPrueba</string>
+
+    <!-- TODO:  Actividad ubicaciones -->
+
+    <string name="textview">Velocidad</string>
+    <string name="latitud">Latitud</string>
+    <string name="longitud">Longitud</string>
+    <string name="direccion">Direccion</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="tv_bienvenido">Bienvenida</string>
+    <string name="todo">TODO</string>
+
+
+</resources>

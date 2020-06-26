@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RegistroConductor">
+
+
+    <EditText
+        android:id="@+id/tv_email"
+        android:layout_width="309dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="65dp"
+        android:layout_marginBottom="318dp"
+        android:autofillHints=""
+        android:ems="10"
+        android:hint="@string/tv_email"
+        android:inputType="textEmailAddress"
+        tools:targetApi="o" />
+
+    <EditText
+        android:id="@+id/tv_passwordConductor"
+        android:layout_width="306dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="68dp"
+        android:layout_marginBottom="248dp"
+        android:autofillHints=""
+        android:ems="10"
+        android:hint="@string/tv_passwordConductor"
+        android:inputType="textPassword"
+        tools:targetApi="o" />
+
+    <Button
+        android:id="@+id/btn_login"
+        android:layout_width="315dp"
+        android:layout_height="58dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="58dp"
+        android:layout_marginBottom="142dp"
+        android:text="@string/btn_login"
+        tools:text="@string/btn_login" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="188dp"
+        android:layout_height="168dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="141dp"
+        android:layout_marginEnd="138dp"
+        android:layout_marginBottom="59dp"
+        android:contentDescription="TODO"
+        app:srcCompat="@drawable/buslogo" />
+
+</RelativeLayout>
